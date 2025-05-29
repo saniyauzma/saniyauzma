@@ -36,8 +36,7 @@ I'm **Saniya Uzma**, currently pursuing studies in Artificial Intelligence and D
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saniyauzma)  
+## 🌐 Connect with Me 
 📧 Email: saniyauzma85@gmail.com
 
 ---
