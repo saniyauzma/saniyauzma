@@ -1,11 +1,11 @@
 # 👋 Hello there!
 
-I'm **Saniya Uzma**, currently pursuing studies in Artificial Intelligence and Data Science at **Global Academy of Technology, Bengaluru**. I'm a third-year engineering enthusiast diving into the fascinating world of AI and data analytics. 🚀
+I'm **Saniya Uzma**, currently pursuing studies in Artificial Intelligence and Data Science at **Global Academy of Technology, Bengaluru**. I'm a final-year engineering enthusiast diving into the fascinating world of AI and data analytics. 🚀
 
 ---
 
 ## 👩‍💻 About Me
-- 🎓 3rd-year AI & Data Science student.
+- 🎓 4th-year AI & Data Science student.
 - 📊 Passionate about data analysis, machine learning, and creating impactful solutions.
 - 🌟 Exploring model interpretability (SHAP, LIME) and full-stack development.
 - 💡 Curious mind, always open to learning and collaboration.
